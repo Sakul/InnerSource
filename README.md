@@ -5,7 +5,7 @@
 1. [What's InnerSource?](/InnerSource.md)
 1. [How to work with open source project?](/OpensourceWorkflows.md)
 1. [Summary of TC](/Brief%20of%20TC.md)
-1. [Opensource Guide](/OpensourceGuide.md)
+1. [Opensource Guides](/OpensourceGuide.md)
 
 ## Inprogress
 1. https://innersourcecommons.org/documents/books/AdoptingInnerSource.pdf
