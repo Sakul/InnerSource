@@ -1,4 +1,4 @@
-# Opensource Guide
+# Opensource Guides
 Reference: [opensource.guide](https://opensource.guide)
 
 * You don’t have to contribute code
