@@ -96,20 +96,8 @@ https://github.com/paypal/rallyslack
 When someone is on Slack, RallySlack automatically pulls up all of that individual’s
 Rally stories to make it easier to find and tag a Slack conversation
 
-## Summary
-* Open Source + Closed Source = InnerSource
-* (Issue + PR + Discussion) > Rules > Codebase
-### Role: Trusted Committer (TC)
-* Gatekeepers of the code
-> Maintain the contribution rules, Code Review, Announcements, Suggest opportunities  
-> 🎁 Rewarding TC
-### Bonus: Passive Documentation
-* Comments in a pull request, a tagged conversation, a comments page in a wiki
-> Mentoring and capturing tribal knowledge  
-> Findable & Usable  
-> 🎁 Rewarding writers and consumers
-
-## Contributing Aggreements
+## Creating Good House Rules for Guests: Writing Contributing Aggreements
+### Contributing Agreement
 ```
 Let contributors know what is required in order for the TC to accept a code contribution
 ```
