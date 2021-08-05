@@ -7,6 +7,7 @@
 	* [Opensource @Microsoft](https://opensource.microsoft.com)
 	* [Sample an Issue](https://github.com/PowerShell/PSScriptAnalyzer/issues/1686)
 * Github
+	* [ASP.NET Repository](https://github.com/dotnet/aspnetcore)
 	* Label of issue
 	* Add test coverage
 	* Translate documentations
@@ -14,9 +15,12 @@
 	* Ask from maintainers (Issue)
 	> You don’t have to contribute code (Planning, Design, Write, Organizing, Code, Helping people, Not software projects)
 ### Start
-* Search Issues, Wiki
+* Search for prevent work overlap
+	* [Issues](https://github.com/dotnet/aspnetcore/issues)
+	* [Wiki](https://github.com/dotnet/aspnetcore/wiki)
 	* Bug reports
-	* Issues Questions
+	* Issues
+	* Questions
 	* Request features
 	> Something may not support by design
 	> 👎 Github's search is bad for searching: Maintainers must have an indicator like documentations by themself
@@ -25,12 +29,13 @@
 		* [ASP.NET Core](https://github.com/dotnet/aspnetcore)
 		* [.NET Runtime](https://github.com/dotnet/runtime)
 	* LICENSE
+		* [ASP.NET Core - License](https://github.com/dotnet/aspnetcore/blob/main/LICENSE.txt)
 	* CONTRIBUTING.md
 		* How to contribute in this repo, tooling, testing, code style, reports, how the process works
-		* [ASP.NET Core](https://github.com/dotnet/aspnetcore/blob/main/CONTRIBUTING.md)
+		* [ASP.NET Core - Contributing](https://github.com/dotnet/aspnetcore/blob/main/CONTRIBUTING.md)
 	* CODE_OF_CONDUCT.md
 		* Ground rules for participants’ behavior associated
-		* [.NET Foundation - Code of Conduct](https://dotnetfoundation.org/code-of-conduct)
+		* [ASP.NET Core - Code of Conduct](https://github.com/dotnet/aspnetcore/blob/main/CODE-OF-CONDUCT.md)
 * Contribution Issues  
 	* Bug reports, Feature requests, Questions, Design conversations, ...  
 	* Issue templates  
@@ -81,3 +86,5 @@
 	* Suggestions
 	* Refactor
 	* Opportunities
+
+* [Ionic PR Template](https://github.com/ionic-team/ionic-framework/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
