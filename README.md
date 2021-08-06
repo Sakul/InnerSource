@@ -20,7 +20,7 @@
 >	* [.NET Runtime - Contributing](https://github.com/dotnet/runtime/blob/main/CONTRIBUTING.md#suggested-workflow)
 >	* [ASP.NET Core - Contributing](https://github.com/dotnet/aspnetcore/blob/main/CONTRIBUTING.md)
 
-# Helpful labels
+## Helpful labels
 |Label|Meaning|Sample|
 |--|--|--|
 |up-for-grabs|Place to start if you are interested in contributing|[Sample](https://aka.ms/aspnet/helpwanted)|
