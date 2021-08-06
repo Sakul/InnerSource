@@ -37,6 +37,7 @@
 	* DON'T surprise them with big pull requests
 	* State in the description what issue or improvement your change is addressing
 	* Check if all the Continuous Integration checks are passing
+	* Do not mix unrelated changes in one pull request (a code style change should never be mixed with a bug fix)
 8. Wait for feedback or approval
 	* [Review procedure](https://github.com/dotnet/runtime/blob/main/docs/pr-guide.md)
 	> Maintainers will add an [Area Owner](https://github.com/dotnet/runtime/blob/main/docs/area-owners.md) tag
