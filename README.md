@@ -9,8 +9,9 @@
 1. [Opensource Guides](/OpensourceGuide.md)
 
 ## Microsoft Guidelines
-1. [.NET Contribution workflow](/MSContributionWorkflow.md)
-1. [.NET Pull request guide](/MSPullRequestGuide.md)
+1. [Contribution workflow](/MSContributionWorkflow.md)
+1. [Pull request guide](/MSPullRequestGuide.md)
+1. [API review process](/MSApiReviewProcess.md)
 
 ## Helpful labels
 |Label|Meaning|Sample|
@@ -31,3 +32,4 @@
 > * [.NET Runtime - Pull Request Guide](https://github.com/dotnet/runtime/blob/main/docs/pr-guide.md)
 > * [.NET Runtime - Contributing](https://github.com/dotnet/runtime/blob/main/CONTRIBUTING.md)
 > * [ASP.NET Core - Contributing](https://github.com/dotnet/aspnetcore/blob/main/CONTRIBUTING.md)
+> * [ASP.NET Core - API review process](https://github.com/dotnet/aspnetcore/blob/main/docs/APIReviewProcess.md)
