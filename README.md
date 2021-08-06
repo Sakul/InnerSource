@@ -12,6 +12,7 @@
 1. [Contribution workflow](/MSContributionWorkflow.md)
 1. [Pull request guide](/MSPullRequestGuide.md)
 1. [API review process](/MSApiReviewProcess.md)
+1. [Triage process](/MSTriageProcess.md)
 
 ## Helpful labels
 |Label|Meaning|Sample|
@@ -36,3 +37,4 @@
 > * [ASP.NET Core - Contributing](https://github.com/dotnet/aspnetcore/blob/main/CONTRIBUTING.md)
 > * [ASP.NET Core - API review process](https://github.com/dotnet/aspnetcore/blob/main/docs/APIReviewProcess.md)
 > * [ASP.NET Core - Contributor documentation](https://github.com/dotnet/aspnetcore/blob/main/docs/README.md)
+> * [ASP.NET Core - Triage Process](https://github.com/dotnet/aspnetcore/blob/main/docs/TriageProcess.md)
