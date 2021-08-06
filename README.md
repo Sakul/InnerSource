@@ -20,6 +20,7 @@
 > References
 >	* [.NET Runtime - Contributing](https://github.com/dotnet/runtime/blob/main/CONTRIBUTING.md#suggested-workflow)
 >	* [ASP.NET Core - Contributing](https://github.com/dotnet/aspnetcore/blob/main/CONTRIBUTING.md)
+>	* [.NET Runtime - Pull Request Guide](https://github.com/dotnet/runtime/blob/main/docs/pr-guide.md)
 
 ## Helpful labels
 |Label|Meaning|Sample|
