@@ -15,7 +15,8 @@
 > * [opensource guide](https://opensource.guide)
 
 ## Microsoft Guidelines
-1. [.NET contribution workflow](/MSContributionWorkflow.md)
+1. [.NET Contribution workflow](/MSContributionWorkflow.md)
+1. [.NET Pull request guide](/MSPullRequestGuide.md)
 > References
 >	* [.NET Runtime - Contributing](https://github.com/dotnet/runtime/blob/main/CONTRIBUTING.md#suggested-workflow)
 >	* [ASP.NET Core - Contributing](https://github.com/dotnet/aspnetcore/blob/main/CONTRIBUTING.md)
