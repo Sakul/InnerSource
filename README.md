@@ -10,8 +10,8 @@
 
 ## Microsoft Guidelines
 1. [Contribution workflow](/MSContributionWorkflow.md)
-1. [Pull request guide](/MSPullRequestGuide.md)
 1. [API review process](/MSApiReviewProcess.md)
+1. [Pull request guide](/MSPullRequestGuide.md)
 1. [Triage process](/MSTriageProcess.md)
 
 ## Helpful labels
