@@ -14,7 +14,7 @@
 * In case during implementation changes to the original proposal are required, the review should become obsolete and the process should start from the beginning
 * Larger changes should have more explanation and context provided, and small changes need less explanation. [Sample of explanation](https://github.com/dotnet/aspnetcore/issues/17160)
 * The meeting invite is sent out to all the team members to join
-* Every API review meeting should include the area owners of the API change proposals as mandatory attendees
+* Every API review meeting should include the [area owners](https://github.com/dotnet/runtime/blob/main/docs/area-owners.md) of the API change proposals as mandatory attendees
 
 ## Why Microsoft do that?
 * Putting this information in an issue with all of the context makes it possible for discussion to take place before the api-review meeting
