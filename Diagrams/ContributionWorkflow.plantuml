@@ -1,0 +1,23 @@
+@startuml
+title Contribution Workflow
+
+start
+
+:Create an **issue**;
+repeat :Triage team process;
+	backward: Add more reason;
+repeat while (Get agreement?) is ([Disagree])
+-> [Agree];
+:Implementation process\n(Fork, Branch, Build, Test);
+:Create a **pull request** (PR);
+:Assign reviewer;
+repeat: Code review;
+	:Appointment;
+	backward: Fix;
+repeat while (Get approvement?) is ([Reject, Bug fix, Refactor, etc])
+-> [Accepted];
+:Merge PR;
+
+stop
+
+@enduml
