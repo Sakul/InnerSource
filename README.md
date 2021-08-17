@@ -8,6 +8,9 @@
 1. [How to work with open source project?](/OpensourceWorkflows.md)
 1. [Opensource Guides](/OpensourceGuide.md)
 
+---
+# Contribution workflows
+
 ## Microsoft Guidelines
 ![img](/Diagrams/ContributionWorkflow.png)
 1. [Contribution workflow](/MSContributionWorkflow.md)
@@ -30,6 +33,28 @@
 ## GitHub flow
 ![img](/Diagrams/GitHubFlow.png)
 
+---
+
+## Code Review
+* **Improve code quality** by identifying and removing defects before they can be introduced into shared code branches
+* Grow by learning from each other about unfamiliar design patterns or languages among other topics, and even break some bad habits
+Develop a shared understanding of the project's code
+
+### Tools
+#### Visual Studio Code
+* [GitHub](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+* [Azure DevOps](https://marketplace.visualstudio.com/items?itemName=ankitbko.vscode-pull-request-azdo)
+#### Visual Studio
+* [GitHub](https://marketplace.visualstudio.com/items?itemName=GitHub.GitHubExtensionforVisualStudio)
+* [Azure DevOps](https://marketplace.visualstudio.com/items?itemName=VSIDEVersionControlMSFT.pr4vs)
+
+---
+
+## ⏳ Inprogress
+1. [Engineering guidelines](https://github.com/dotnet/aspnetcore/wiki/Engineering-guidelines)
+1. [Adopting InnerSource - Principles and Case Studies](https://innersourcecommons.org/documents/books/AdoptingInnerSource.pdf)
+1. [InnerSource Patterns](https://patterns.innersourcecommons.org)
+
 ## Helpful labels
 |Label|Meaning|Sample|
 |--|--|--|
@@ -38,11 +63,6 @@
 |good-first-issue|Not require too much familiarity with the framework and are more novice-friendly|[Sample](https://aka.ms/aspnet/helpwanted)|
 |Resolution: Duplicate|Resolved as a duplicate of another issue (The issue will be automatically closed in 1 day of inactivity)|[Sample](https://github.com/dotnet/aspnetcore/labels?q=Resolution)|
 |Resolution: Answered|Resolved because the question asked by the original author has been answered (The issue will be automatically closed in 1 day of inactivity)|[Sample](https://github.com/dotnet/aspnetcore/labels?q=Resolution)|
-
-## ⏳ Inprogress
-1. [Engineering guidelines](https://github.com/dotnet/aspnetcore/wiki/Engineering-guidelines)
-1. [Adopting InnerSource - Principles and Case Studies](https://innersourcecommons.org/documents/books/AdoptingInnerSource.pdf)
-1. [InnerSource Patterns](https://patterns.innersourcecommons.org)
 
 ## References
 * [InnerSource Checklist - How to Launch Collaboration Within Your Enterprise](https://innersourcecommons.org/documents/books/InnerSourceChecklist.pdf)
