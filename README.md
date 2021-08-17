@@ -27,6 +27,9 @@
 > PR: Stands for “pull-request”  
 > CL: Stands for “changelist”, which means one self-contained change that has been submitted to version control or which is undergoing code review. Other organizations often call this a “change”, “patch”, or “pull-request”.
 
+## GitHub flow
+![img](/Diagrams/GitHubFlow.png)
+
 ## Helpful labels
 |Label|Meaning|Sample|
 |--|--|--|
@@ -42,13 +45,14 @@
 1. [InnerSource Patterns](https://patterns.innersourcecommons.org)
 
 ## References
-> * [InnerSource Checklist - How to Launch Collaboration Within Your Enterprise](https://innersourcecommons.org/documents/books/InnerSourceChecklist.pdf)
-> * [Youtube - How to Start Contributing To Open-Source](https://www.youtube.com/watch?v=wF9IUQlZ2Sk)
-> * [opensource guide](https://opensource.guide)
-> * [.NET Runtime - Pull Request Guide](https://github.com/dotnet/runtime/blob/main/docs/pr-guide.md)
-> * [.NET Runtime - Contributing](https://github.com/dotnet/runtime/blob/main/CONTRIBUTING.md)
-> * [ASP.NET Core - Contributing](https://github.com/dotnet/aspnetcore/blob/main/CONTRIBUTING.md)
-> * [ASP.NET Core - API review process](https://github.com/dotnet/aspnetcore/blob/main/docs/APIReviewProcess.md)
-> * [ASP.NET Core - Contributor documentation](https://github.com/dotnet/aspnetcore/blob/main/docs/README.md)
-> * [ASP.NET Core - Triage Process](https://github.com/dotnet/aspnetcore/blob/main/docs/TriageProcess.md)
-> * [Google's Engineering Practices documentation](https://google.github.io/eng-practices)
+* [InnerSource Checklist - How to Launch Collaboration Within Your Enterprise](https://innersourcecommons.org/documents/books/InnerSourceChecklist.pdf)
+* [Youtube - How to Start Contributing To Open-Source](https://www.youtube.com/watch?v=wF9IUQlZ2Sk)
+* [opensource guide](https://opensource.guide)
+* [.NET Runtime - Pull Request Guide](https://github.com/dotnet/runtime/blob/main/docs/pr-guide.md)
+* [.NET Runtime - Contributing](https://github.com/dotnet/runtime/blob/main/CONTRIBUTING.md)
+* [ASP.NET Core - Contributing](https://github.com/dotnet/aspnetcore/blob/main/CONTRIBUTING.md)
+* [ASP.NET Core - API review process](https://github.com/dotnet/aspnetcore/blob/main/docs/APIReviewProcess.md)
+* [ASP.NET Core - Contributor documentation](https://github.com/dotnet/aspnetcore/blob/main/docs/README.md)
+* [ASP.NET Core - Triage Process](https://github.com/dotnet/aspnetcore/blob/main/docs/TriageProcess.md)
+* [Google's Engineering Practices documentation](https://google.github.io/eng-practices)
+* [Understanding the GitHub flow](https://guides.github.com/introduction/flow)
