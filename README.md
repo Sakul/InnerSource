@@ -20,6 +20,7 @@
 1. [Speed of Code Reviews](/GoogleSpeedOfCodeReviews.md)
 1. [How to Write Code Review Comments](/GoogleHowToWriteCodeReviewComments.md)
 1. [Handling Pushback in Code Reviews](/GoogleHandlingPushbackInCodeReviews.md)
+1. [How to handle reviewer comments](/GoogleHowToHandleReviewerComments.md)
 
 ## Helpful labels
 |Label|Meaning|Sample|
