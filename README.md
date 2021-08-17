@@ -19,6 +19,7 @@
 1. [Writing good CL descriptions](/GoogleWritingGoodCLDescriptions.md)
 1. [Speed of Code Reviews](/GoogleSpeedOfCodeReviews.md)
 1. [How to Write Code Review Comments](/GoogleHowToWriteCodeReviewComments.md)
+1. [Handling Pushback in Code Reviews](/GoogleHandlingPushbackInCodeReviews.md)
 
 ## Helpful labels
 |Label|Meaning|Sample|
