@@ -16,6 +16,7 @@
 1. [Pull request guide](/MSPullRequestGuide.md)
 
 ## Google's Engineering Practices documentation
+1. [Writing good CL descriptions](/GoogleWritingGoodCLDescriptions.md)
 1. [Speed of Code Reviews](/GoogleSpeedOfCodeReviews.md)
 
 ## Helpful labels
