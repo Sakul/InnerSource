@@ -9,6 +9,7 @@
 1. [Opensource Guides](/OpensourceGuide.md)
 
 ## Microsoft Guidelines
+![img](/Diagrams/ContributionWorkflow.png)
 1. [Contribution workflow](/MSContributionWorkflow.md)
 1. [API review process](/MSApiReviewProcess.md)
 1. [Triage process](/MSTriageProcess.md)
