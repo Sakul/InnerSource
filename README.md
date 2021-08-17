@@ -18,6 +18,7 @@
 ## Google's Engineering Practices documentation
 1. [Writing good CL descriptions](/GoogleWritingGoodCLDescriptions.md)
 1. [Speed of Code Reviews](/GoogleSpeedOfCodeReviews.md)
+1. [How to Write Code Review Comments](/GoogleHowToWriteCodeReviewComments.md)
 
 ## Helpful labels
 |Label|Meaning|Sample|
