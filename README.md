@@ -15,6 +15,9 @@
 1. [Triage process](/MSTriageProcess.md)
 1. [Pull request guide](/MSPullRequestGuide.md)
 
+## Google's Engineering Practices documentation
+1. [Speed of Code Reviews](/GoogleSpeedOfCodeReviews.md)
+
 ## Helpful labels
 |Label|Meaning|Sample|
 |--|--|--|
@@ -39,3 +42,4 @@
 > * [ASP.NET Core - API review process](https://github.com/dotnet/aspnetcore/blob/main/docs/APIReviewProcess.md)
 > * [ASP.NET Core - Contributor documentation](https://github.com/dotnet/aspnetcore/blob/main/docs/README.md)
 > * [ASP.NET Core - Triage Process](https://github.com/dotnet/aspnetcore/blob/main/docs/TriageProcess.md)
+> * [Google's Engineering Practices documentation](https://google.github.io/eng-practices)
