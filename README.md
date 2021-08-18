@@ -55,10 +55,11 @@ Develop a shared understanding of the project's code
 ![img](/Diagrams/ResolveMergeConflicts.png)  
 When merge conflicts occur follow the steps below.
 1. Create a remote `hotfix` branch from **main**
-1. Merge the local `development` branch into the local **hotfix** branch
+1. Merge the local `feature` branch into the local **hotfix** branch
 1. Resolve the merge conflicts and commit it
-1. Sync the local **hotfix** branch to the remote repository
-1. Merge the **hotfix** branch into the **main** branch
+1. Merge the local **hotfix** back to the local **feature** branch
+1. Sync the local **feature** branch into the remote repository
+1. Merge the **feature** branch into the **main** branch via PR
 
 ---
 
