@@ -22,6 +22,7 @@
 ![img](/Diagrams/Google%20Engineering%20Practices.png)
 1. [Writing good CL descriptions](/GoogleWritingGoodCLDescriptions.md)
 1. [Speed of Code Reviews](/GoogleSpeedOfCodeReviews.md)
+1. [The Standard of Code Review](/GoogleTheStandardOfCodeReview.md)
 1. [How to Write Code Review Comments](/GoogleHowToWriteCodeReviewComments.md)
 1. [Handling Pushback in Code Reviews](/GoogleHandlingPushbackInCodeReviews.md)
 1. [How to handle reviewer comments](/GoogleHowToHandleReviewerComments.md)
