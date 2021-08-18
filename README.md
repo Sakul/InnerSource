@@ -51,12 +51,13 @@ Develop a shared understanding of the project's code
 ---
 
 # Resolve Merge Conflicts
-![img](/Diagrams/ResolveMergeConflicts.PNG)
-1. Create a remote `hotfix` branch from main
-1. Create a `local-hotfix` branch from the remote hotfix branch
-1. Merge the `local-dev` branch into the **local-hotfix** branch
-1. Resolve the merge conflicts
-1. Push the **local-hotfix** branch and create new pull request
+![img](/Diagrams/ResolveMergeConflicts.png)
+When merge conflicts occur follow the steps below.
+1. Create a remote `hotfix` branch from **main**
+1. Merge the local `development` branch into the local **hotfix** branch
+1. Resolve the merge conflicts and commit it
+1. Sync the local **hotfix** branch to the remote repository
+1. Merge the **hotfix** branch into the **main** branch
 
 ---
 
