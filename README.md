@@ -51,7 +51,7 @@ Develop a shared understanding of the project's code
 ---
 
 # Resolve Merge Conflicts
-![img](/Diagrams/ResolveMergeConflicts.png)
+![img](/Diagrams/ResolveMergeConflicts.png)  
 When merge conflicts occur follow the steps below.
 1. Create a remote `hotfix` branch from **main**
 1. Merge the local `development` branch into the local **hotfix** branch
