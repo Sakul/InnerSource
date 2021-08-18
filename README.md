@@ -50,8 +50,18 @@ Develop a shared understanding of the project's code
 
 ---
 
+# Resolve Merge Conflicts
+![img](/Diagrams/ResolveMergeConflicts.PNG)
+1. Create a remote `hotfix` branch from main
+1. Create a `local-hotfix` branch from the remote hotfix branch
+1. Merge the `local-dev` branch into the **local-hotfix** branch
+1. Resolve the merge conflicts
+1. Push the **local-hotfix** branch and create new pull request
+
+---
+
 ## ⏳ Inprogress
-1. [Engineering guidelines](https://github.com/dotnet/aspnetcore/wiki/Engineering-guidelines)
+1. [Microsoft Engineering guidelines](https://github.com/dotnet/aspnetcore/wiki/Engineering-guidelines)
 1. [Adopting InnerSource - Principles and Case Studies](https://innersourcecommons.org/documents/books/AdoptingInnerSource.pdf)
 1. [InnerSource Patterns](https://patterns.innersourcecommons.org)
 
@@ -76,3 +86,7 @@ Develop a shared understanding of the project's code
 * [ASP.NET Core - Triage Process](https://github.com/dotnet/aspnetcore/blob/main/docs/TriageProcess.md)
 * [Google's Engineering Practices documentation](https://google.github.io/eng-practices)
 * [Understanding the GitHub flow](https://guides.github.com/introduction/flow)
+* [Resolve Merge Conflicts in Azure DevOps](http://twocents.nl/?p=2648)
+
+## Useful links
+* [gitgraph.js](https://www.npmjs.com/package/@gitgraph/js)
