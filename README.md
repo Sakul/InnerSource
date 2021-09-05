@@ -63,6 +63,9 @@ When merge conflicts occur follow the steps below.
 
 ---
 
+# Team workflows
+![img](/Diagrams/InnerSource%20team%20workflow.png)
+
 ## ⏳ Inprogress
 1. [Microsoft Engineering guidelines](https://github.com/dotnet/aspnetcore/wiki/Engineering-guidelines)
 1. [Adopting InnerSource - Principles and Case Studies](https://innersourcecommons.org/documents/books/AdoptingInnerSource.pdf)
