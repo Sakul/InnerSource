@@ -1,0 +1,54 @@
+@startuml
+title InnerSource team workflow
+hide empty description
+
+note "When problems occur in any\nstate, the team will create new\nissue cards for resolutions." as note
+
+state "Fresh issue" as issue1
+[*] --> issue1: [Someone create an issue]
+
+state "Review process" as reviewgroup {
+	state "Review" as review
+	state "Close the issue" as close
+	review -right-> close: [Rejected]
+	close -right-> [*]
+}
+
+state "Pilot process" as fixgroup {
+	fixgroup: Create new issue(s)\nto find solutions.
+}
+
+review -left-> fixgroup: [Need pilot]
+fixgroup --> review: [Done]
+issue1 --> review
+state "Valuable issue" as issue2
+review --> issue2: [Accepted]
+state "Clear requirements & solutions" as clear
+issue2 --> clear: [Volunteer offered]
+state "Setup teams & environments" as setup
+clear --> setup
+state "Create work items" as workitem
+setup --> workitem
+state c <<choice>>
+workitem --> c
+
+state "Working on theirown space" as working
+c -right-> working: [None coding]
+working --> Review: [Done]
+Review --> working: [Need fix]
+Review --> [*]
+
+c --> Fork: [Relevant with code]
+state "Implement & Test" as imp
+state "Pull Request" as pr
+Fork --> imp
+imp --> pr: [Ready to review]
+pr --> imp: [Need fix]
+pr --> Demo
+Demo --> Feedback
+state "Close the issue & work items" as close2
+Feedback --> close2
+close2 --> [*]
+
+
+@enduml
